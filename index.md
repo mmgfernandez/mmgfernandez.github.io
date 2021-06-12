@@ -1,5 +1,5 @@
 
-[markdown] https://www.markdownguide.org/basic-syntax
+[markdown](https://www.markdownguide.org/basic-syntax)
 
 ----
 
