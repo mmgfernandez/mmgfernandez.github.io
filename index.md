@@ -1,4 +1,12 @@
+
+Save github username/password:
+
+    git config --global credential.helper store
+
+----
+
 Activate venv:
+
     source myvenv/bin/activate
 
 ----
